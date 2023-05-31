@@ -1,0 +1,28 @@
+.container {
+    width: 60%;
+    background-color: lightgray;
+    margin: auto; /* center the container */
+    display: flex;
+    padding: 20px;
+    border-radius: 15px;
+}
+
+.container .profile-image {
+    flex: 0 0 30%;
+    margin-right: 20px;
+    height: 200px;
+    width: 200px;
+    background-color: blue;
+    border-radius: 50%; /* to make the shape an ellipse */
+}
+
+.container .intro-text {
+    flex: 1;
+}
+
+@media only screen and (max-width: 600px) {
+    /* For mobile phones: */
+    .container {
+        width: 80%;
+    }
+}
