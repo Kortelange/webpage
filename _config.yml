@@ -1,0 +1,12 @@
+title: Your website's title
+email: Your email
+description: >- # this means to ignore newlines until "baseurl:"
+  Write a short description of your website here.
+baseurl: "/webpage" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: Your Twitter username
+github_username:  Your GitHub username
+theme: minima
+plugins:
+  - jekyll-feed
+
