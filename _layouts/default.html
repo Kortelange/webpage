@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>{{ page.title }}</title>
+    <link rel="stylesheet" href="{{ '/assets/css/home.css' | relative_url }}">
+    <link rel="stylesheet" href="{{ '/assets/css/book.css' | relative_url }}">
+    <link href="https://fonts.googleapis.com/css2?family=Open+Sans&display=swap" rel="stylesheet">
+  </head>
+  <body>
+    {% include header.html %}
+    {{ content }}
+    {% include footer.html %}
+  </body>
+</html>

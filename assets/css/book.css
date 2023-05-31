@@ -1,0 +1,81 @@
+.books-page-title {
+    text-align: center;
+}
+
+.book-card {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    max-width: 60%;
+    margin: auto;
+    text-align: left;
+    font-family: 'Open Sans', sans-serif;
+    margin-bottom: 10px;
+    border-radius: 10px;
+    max-height: 80px;
+    overflow: hidden;
+    transition: max-height 0.5s ease-in-out;
+}
+
+.book-card:hover {
+    max-height: 1000px;
+}
+
+.container, .book-card {
+    background-color: #F0F0F0;
+    color: #000000;
+}
+
+.book-card .header {
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+    align-items: baseline;
+}
+
+.book-card h1 {
+    font-size: 18px;
+    color: #333333;
+}
+
+.book-card p {
+    padding: 20px;
+    text-align: justify;
+}
+
+.book-card h1  a {
+    text-decoration: none;
+}
+
+.book-card h1 a:visited {
+    color: #333333;
+}
+
+.book-card h1 a:hover {
+    color: #007BFF;
+    text-decoration: underline;
+}
+
+.book-page .header {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.book-page h1 {
+    font-size: 24px;
+    color: #333333;
+}
+
+.review-box {
+    background-color: #F0F0F0;
+    color: #000000;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0px 4px 6px 0px rgba(0,0,0,0.1);
+    width: 80%;
+    margin: 0 auto; /* This centers the box */
+}
+
+@media (max-width: 768px) {
+    .review-box {
+        width: 95%;
+    }
+}
