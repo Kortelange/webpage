@@ -10,7 +10,7 @@ title: Books
 {% for book in site.books %}
 <div class="book-card">
     <div class="header">
-        <a href="{{ book.url | relative_url }}"><h1>{{ book.title }}</h1></a>
+        <h1><a href="{{ book.url | relative_url }}">{{ book.title }}</a></h1>
         <div class="rating">{{ book.rating }}/5</div>
     </div>
     <p>{{ book.short_review }}</p>

@@ -1,6 +1,9 @@
+body {
+    background-color: #F0F0F0;
+}
+
 .container {
     width: 60%;
-    background-color: lightgray;
     margin: auto; /* center the container */
     display: flex;
     padding: 20px;
@@ -38,11 +41,15 @@
     text-align: left;
     font-family: 'Open Sans', sans-serif;
     margin-bottom: 10px;
-    background-color: #f6f8fa;
     border-radius: 10px;
     transition: height 0.5s;
     height: 80px;
     overflow: hidden;
+}
+
+.container, .book-card {
+    background-color: #E8E8E8;
+    color: #000000;
 }
 
 .book-card:hover {
@@ -68,3 +75,20 @@
     padding: 20px;
     text-align: justify;
 }
+
+.book-card h1 a {
+    color: #333333;
+    text-decoration: none;
+}
+
+.book-card h1 a:visited {
+    color: #333333;
+}
+
+.book-card h1 a:hover {
+    color: #007BFF;
+    text-decoration: underline;
+}
+
+
+
