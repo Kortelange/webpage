@@ -10,3 +10,6 @@ theme: minima
 plugins:
   - jekyll-feed
 
+collections:
+  books:
+    output: true
