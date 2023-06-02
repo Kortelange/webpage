@@ -12,7 +12,7 @@ title: Books
     <div class="header">
         <h1><a href="{{ book.url | relative_url }}">{{ book.title }}</a></h1>
         <h1>{{ book.author }}</h1>
-        <div class="rating">{{ book.rating }}/5</div>
+        <h1>{{ site.ratings[book.rating] | default: "Not rated" }}</h1>
     </div>
     <p>{{ book.short_review }}</p>
 </div>
