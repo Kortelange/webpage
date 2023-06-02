@@ -77,8 +77,11 @@ body {
     text-align: justify;
 }
 
-.book-card h1 a {
+.book-card h1 {
     color: #333333;
+}
+
+.book-card h1  a {
     text-decoration: none;
 }
 
