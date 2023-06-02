@@ -14,6 +14,7 @@ title: Books
         <h1>{{ book.author }}</h1>
         <h1>{{ site.ratings[book.rating] | default: "Not rated" }}</h1>
     </div>
-    <p>{{ book.short_review }}</p>
+    <p>{{ book.short_review }}<br /> <a href="{{ book.url | relative_url }}">Read More</a></p>
+
 </div>
 {% endfor %}

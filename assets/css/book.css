@@ -10,18 +10,18 @@
     font-family: 'Open Sans', sans-serif;
     margin-bottom: 10px;
     border-radius: 10px;
-    transition: height 0.5s;
-    height: 80px;
+    max-height: 80px;
     overflow: hidden;
+    transition: max-height 0.5s ease-in-out;
+}
+
+.book-card:hover {
+    max-height: 1000px;
 }
 
 .container, .book-card {
     background-color: #F0F0F0;
     color: #000000;
-}
-
-.book-card:hover {
-    height: auto;
 }
 
 .book-card .header {
