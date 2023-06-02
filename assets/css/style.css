@@ -66,19 +66,12 @@ body {
 
 .book-card h1 {
     font-size: 18px;
-}
-
-.book-card .rating {
-    color: grey;
+    color: #333333;
 }
 
 .book-card p {
     padding: 20px;
     text-align: justify;
-}
-
-.book-card h1 {
-    color: #333333;
 }
 
 .book-card h1  a {
@@ -94,5 +87,28 @@ body {
     text-decoration: underline;
 }
 
+.book-page .header {
+    text-align: center;
+    margin-bottom: 20px;
+}
 
+.book-page h1 {
+    font-size: 24px;
+    color: #333333;
+}
 
+.review-box {
+    background-color: #F0F0F0;
+    color: #000000;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0px 4px 6px 0px rgba(0,0,0,0.1);
+    width: 80%;
+    margin: 0 auto; /* This centers the box */
+}
+
+@media (max-width: 768px) {
+    .review-box {
+        width: 95%;
+    }
+}
