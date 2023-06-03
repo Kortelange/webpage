@@ -43,6 +43,7 @@
 
 .book-card h1  a {
     text-decoration: none;
+    color: #333333;
 }
 
 .book-card h1 a:visited {
