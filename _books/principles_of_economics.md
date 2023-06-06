@@ -78,3 +78,22 @@ Ammous then illustrates this concept with an engaging example. He explains that 
 In his discussion of trade, Ammous also talks about specialization and how labor gets divided up in an economy. When an economy is small, people have to take care of a lot of their own needs. But as the economy grows, people can start to specialize in what they do best. This leads to better use of capital, increased productivity, and greater market opportunities.
 
 Closing the chapter, Ammous presents real-world examples to demonstrate the impacts of trade policies. He points out how Venezuela's living standards declined due to its policy of restricting trade. Conversely, regions like Hong Kong, Singapore, New Zealand, and Switzerland have experienced improved living standards as a result of embracing open trade policies. These examples underline the important role that trade, especially free trade, plays in fostering economic growth and prosperity.
+
+## Chapter 10: Money
+
+Chapter 10 explores the topic of money. Ammous explains the concept of 'salability', referring to the ease with which something can be exchanged without losing its value. Highly salable goods can be sold swiftly with minimal discount, whereas less salable goods might require a significant discount for a quick sale.
+
+Ammous categorizes salability into four dimensions: goods, space, scale, and time. 'Goods' questions if the seller accepts what you offer, 'space' refers to ease of transport, 'scale' speaks to divisibility, and 'time' discusses the consistency of an item's value over periods like tomorrow, next year, or a decade.
+
+Historically, metals have served as excellent money due to their ability to tackle the issues of space and scale. However, with the emergence of modern telecommunications and global interconnectedness, metals have become too costly to transport, leading to their replacement by credit.
+
+The salability across time depends on the difficulty to increase existing stockpiles. This idea is represented by the 'stock to flow' ratio, defined as global stockpiles divided by annual production. Saving in a commodity with a low ratio punishes the saver as miners obtain the flows, subsequently diluting the stockpiles. A high ratio means that stockpiles are challenging to dilute, making it a desirable saving avenue.
+
+Ammous posits that money is a 'winner-takes-all' domain. People tend to gravitate towards the most salable option. Furthermore, those who save in the best money over time become the wealthiest, thereby increasing the market share of the best money.
+
+He also counters the belief that money needs government backing. Ammous illustrates this with a powerful quote: "Gold did not become money because it was minted into government coins. Government coins became money because they were minted from gold." Governments later rescinded the promise of redeeming their credit in gold.
+
+Ammous underscores money's role in facilitating specialization and division of labor, acting as a unit of account, and reducing risk, leading to lower time preferences. Money, in this respect, is unique as it does not derive its utility from consumption or the ability to produce other goods.
+
+Based on this understanding, Ammous argues that any amount of money is enough for any economy as long as it is divisible. He further suggests that hard money leads to abundance as it encourages saving and investment in productive capital.
+
