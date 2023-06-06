@@ -81,3 +81,9 @@
         width: 95%;
     }
 }
+
+.book-card,
+.review-box {
+    max-width: 800px;
+    margin: auto;
+}
