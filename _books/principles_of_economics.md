@@ -121,3 +121,13 @@ The level of future risk can influence time preference. When future risk is low,
 
 Ammous argues that the inflation tax resulting from monetary expansion is particularly destructive because it raises time preference, thereby reducing people's ability to think and plan ahead. This impairs longer-term economic stability and growth.
 
+## Chapter 14: Credit and Banking
+
+In Chapter 14, Ammous takes a deep dive into the fundamentals of banking and credit. He outlines the primary role of a bank as being responsible for securely storing customers' funds. The second major role of a bank is to act as an intermediary, enabling customers to lend money to entrepreneurs in the form of credit.
+
+Ammous further dissects credit into two categories: 'commodity credit' and 'circulation credit'. This chapter explores 'commodity credit', with 'circulation credit' being discussed in the following chapter. Commodity credit refers to the credit extended by a bank in which the due dates of its claims precede the due dates of its obligations.
+
+Towards the end of the chapter, Ammous explains the relationship between time preference and interest rates within the context of commodity credit. He makes the point that high time preference often results in higher interest rates, while low time preference generally leads to lower interest rates.
+
+He then makes the case that under the right conditions - particularly with sufficiently hard money - a free market interest rate of 0% could potentially be realized in commodity credit. This is because lending at 0% interest could feasibly outperform the cost of storing the money, thus impacting the behaviors and decisions of those engaged in lending and borrowing.
+
