@@ -112,3 +112,12 @@ As a side note, a similar argument could likely be made regarding other politica
 Chapter 12 delves into the concept of capitalism. Ammous asserts that the litmus test for capitalism is the presence of a free market for capital, commonly represented by the stock market.
 
 Ammous portrays capitalism as entrepreneurial, rather than managerial, arguing that owners of capital are best placed to assess costs and benefits. This perspective then segues into a discussion on the "economic calculation problem". Ammous explains that if one entity owns all capital, it loses price as a signal, hence disrupting the mechanism of efficient allocation.
+
+## Chapter 13: Time Preference
+
+Chapter 13 centers around the concept of time preference, which is the extent to which someone values a good or service today as opposed to in the future. A high time preference indicates a greater valuation of goods today than tomorrow.
+
+The level of future risk can influence time preference. When future risk is low, time preference also tends to be lower, as individuals can plan ahead more confidently. Hard money, productive capital, and advanced civilisation all contribute to lowering time preference. Conversely, rapid inflation of currency can raise time preference. This can be observed in economies undergoing hyperinflation, where individuals might resort to drastic measures, such as chopping down fruit trees in winter for firewood, due to their heightened preference for immediate resources.
+
+Ammous argues that the inflation tax resulting from monetary expansion is particularly destructive because it raises time preference, thereby reducing people's ability to think and plan ahead. This impairs longer-term economic stability and growth.
+
