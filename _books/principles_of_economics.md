@@ -97,3 +97,12 @@ Ammous underscores money's role in facilitating specialization and division of l
 
 Based on this understanding, Ammous argues that any amount of money is enough for any economy as long as it is divisible. He further suggests that hard money leads to abundance as it encourages saving and investment in productive capital.
 
+## Chapter 11: Markets
+
+In Chapter 11, Ammous provides an insightful view of markets, describing them as "equilibrating processes". This is achieved by using the ordinal value of goods at the margin.
+
+Ammous highlights the power of consumers in a free market setting, where the consumer, having the freedom to decide whether or not to buy goods, reigns as king,
+
+The author underscores the importance of price as a signal of what individuals value. He offers an interesting perspective on the intersection of politics and economics. In politics, having a sound understanding of economics could potentially be a disadvantage. When one fails to perceive prices as outcomes arising from individual valuations and producer costs, they could mistakenly believe that prices can be manipulated to achieve certain goals. However, tampering with prices alters both consumer and producer behaviors, resulting in a disturbance of market equilibrium.
+
+As a side note, a similar argument could likely be made regarding other political subjects such as health or energy. In such scenarios, a candidate lacking a thorough understanding of these subjects could make popular yet misguided promises. In contrast, an honest and well-informed candidate might be less popular for not making such promises.
