@@ -106,3 +106,9 @@ Ammous highlights the power of consumers in a free market setting, where the con
 The author underscores the importance of price as a signal of what individuals value. He offers an interesting perspective on the intersection of politics and economics. In politics, having a sound understanding of economics could potentially be a disadvantage. When one fails to perceive prices as outcomes arising from individual valuations and producer costs, they could mistakenly believe that prices can be manipulated to achieve certain goals. However, tampering with prices alters both consumer and producer behaviors, resulting in a disturbance of market equilibrium.
 
 As a side note, a similar argument could likely be made regarding other political subjects such as health or energy. In such scenarios, a candidate lacking a thorough understanding of these subjects could make popular yet misguided promises. In contrast, an honest and well-informed candidate might be less popular for not making such promises.
+
+## Chapter 12: Capitalism
+
+Chapter 12 delves into the concept of capitalism. Ammous asserts that the litmus test for capitalism is the presence of a free market for capital, commonly represented by the stock market.
+
+Ammous portrays capitalism as entrepreneurial, rather than managerial, arguing that owners of capital are best placed to assess costs and benefits. This perspective then segues into a discussion on the "economic calculation problem". Ammous explains that if one entity owns all capital, it loses price as a signal, hence disrupting the mechanism of efficient allocation.
