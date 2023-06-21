@@ -164,3 +164,19 @@ In a system built on commodity credit, all loans require the lender to forego th
 The same scenario plays out with respect to interest rates. The issuance of fiduciary media artificially lowers interest rates, making more ventures seem profitable, leading to their initiation. However, this again bids up prices, increasing costs. Once payments are due, the rates rise again, rendering these companies unprofitable and driving them into bankruptcy.
 
 Ammous argues that under a free market in money, institutions that issue fiduciary media will regularly crash until the surviving institutions act in a more responsible manner. However, with government fiat and bailouts, this is no longer the case. This situation enriches the issuers of fiduciary media at the expense of savers. It's analogous to a king reducing the metal content in coins to issue more, thereby enriching himself at the expense of his subjects.
+
+## Chapter 16: Violence
+
+Chapter 16 starts by introducing the "non-aggression principle," which posits that violence is only justifiable when used in self-defense.
+
+Ammous examines the foundation of government coercion, explaining that the state aims to solve the problem of violence by granting itself a monopoly on it. Classical liberals argued that the government's appropriate role is to safeguard the property rights and security of its citizens. Still, if it fails to restrict its role to these functions, it would cause more harm due to the calculation problems linked with poorly defined property rights.
+
+Ammous challenges examples of government coercion, such as price controls, monetary inflation, taxation, and subsidies. He counters the viewpoint of modern economists that governments are not driven by profits, arguing that profits direct entrepreneurs to areas where they can most benefit society while enriching themselves.
+
+The rationale for government coercion is explained through the concept of "market failure." This idea presumes an optimal, desirable situation that markets fail to achieve but disregards the subjectivity of values. Modern economists use sophisticated mathematical models to demonstrate market failure. These models assume complete knowledge by all actors, infinite buyers and sellers, and all acting "rationally" and self-interestedly. In this context, "rational" is whatever the theorizing economist deems rational, as opposed to the Austrian use where "rational" implies "thought-through." Since these assumptions are clearly flawed, market failure cannot be proven from a model dependent on these assumptions.
+
+Ammous addresses the problems with each of these assumptions, arguing that monopolies are more often created by governments rather than being prevented by them.
+
+In addition, he provides an engaging discussion about public goods and how a free market can handle these. Public goods are classified into non-excludable and non-rival goods. Non-excludable goods are those that, once paid for, cannot exclude anyone from their use, like public parks and police services. Non-rival goods are those whose use does not diminish their value to others, such as street lamps.
+
+Mainstream economics' problem with these goods is the "freeloader" problem, where people do not pay for the usage of such items. Nevertheless, there are many examples of public parks donated by landowners and charities that solve for both these types of goods. Furthermore, it's hard to imagine that residents of a street would be unwilling to pay for lamps since the lamps would benefit the inhabitants the most.
