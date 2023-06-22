@@ -180,3 +180,21 @@ Ammous addresses the problems with each of these assumptions, arguing that monop
 In addition, he provides an engaging discussion about public goods and how a free market can handle these. Public goods are classified into non-excludable and non-rival goods. Non-excludable goods are those that, once paid for, cannot exclude anyone from their use, like public parks and police services. Non-rival goods are those whose use does not diminish their value to others, such as street lamps.
 
 Mainstream economics' problem with these goods is the "freeloader" problem, where people do not pay for the usage of such items. Nevertheless, there are many examples of public parks donated by landowners and charities that solve for both these types of goods. Furthermore, it's hard to imagine that residents of a street would be unwilling to pay for lamps since the lamps would benefit the inhabitants the most.
+
+## Chapter 17: Defense
+
+Chapter 17 explores whether defense needs to be provided by the state and evaluates its efficiency. It begins by pointing out that the private security market is already larger than its government counterpart. Examples include security guards and private police forces in some countries, indicating that security is a service that people will pay for in a free market.
+
+Ammous delves into the market for law and order, starting with how Britain's common law developed over centuries in private courts rather than through a top-down approach. He also highlights the thriving arbitration industry in many countries, which resolves disputes outside the judicial system, emphasizing the value many place on the efficiency of private courts.
+
+A compelling discussion around the state's monopoly in defense and law ensues. The central question posed is why the coercive monopoly in defense and violence should not face the same challenges as monopolies in other markets. The issue, according to Ammous, is exacerbated by the state's money monopoly, which provides unlimited resources to finance propaganda, convincing its citizens that no alternative to the state monopoly exists. 
+
+This argument is well captured in the powerful quote, "The modern slave is not kept in physical chains as his physical freedom makes him too productive to restrain."
+
+One argument in favor of the state monopoly is that without it, the largest gang of thugs would seize control and establish the rules. However, as Ammous retorts, this argument is self-defeating, implying that the state is just the biggest and baddest group of thugs who have already taken over.
+
+Ammous then tackles potential failures of the state monopoly, starting by questioning how to determine the level of security. For instance, "should wealthy people, who are at a higher risk of burglary, have more protection, and if so, why should the poor pay for it?".
+
+He argues that since military funding is not related to the level of security provided, the US army has received enormous amounts of money to finance a never-ending series of conflicts. This has been counterproductive as it has generated numerous enemies (Scott Horton's "Enough Already" offers a comprehensive exploration of this issue).
+
+The chapter concludes with a thought-provoking discussion about what a society with a free market might look like, covering the dynamics between defense, insurance, local communities, and the state. While this section is speculative and doesn't offer real-world examples—since such a society does not currently exist—it remains intriguing nonetheless.
