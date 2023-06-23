@@ -198,3 +198,17 @@ Ammous then tackles potential failures of the state monopoly, starting by questi
 He argues that since military funding is not related to the level of security provided, the US army has received enormous amounts of money to finance a never-ending series of conflicts. This has been counterproductive as it has generated numerous enemies (Scott Horton's "Enough Already" offers a comprehensive exploration of this issue).
 
 The chapter concludes with a thought-provoking discussion about what a society with a free market might look like, covering the dynamics between defense, insurance, local communities, and the state. While this section is speculative and doesn't offer real-world examples—since such a society does not currently exist—it remains intriguing nonetheless.
+
+## Chapter 18: Civilization
+
+In the final chapter, Ammous connects the ideas from the previous chapters and explains how civilization emerges. He proposes that the formation of civilization is rooted in the lowering of time preference, capital accumulation, and division of labor.
+
+He asserts that the crux of these is the lowering of time preference, but it is the social institutions required for extensive division of labor that truly build civilization.
+
+Participation in civilization necessitates abstaining from certain instinctual actions, with the primary requirements being respect for property rights and adherence to the non-aggression principle.
+
+He examines how the modern fiat monetary system has eroded civilization over the last century, a topic he extensively covers in his book, "The Fiat Standard". The main arguments are that fiat has debased money and increased time preference. The erosion of money has left entrepreneurs at the mercy of central bankers controlling interest rates. This dynamic has pushed economic calculation to the backseat, as the primary driver for capital accumulation has become trying to predict future monetary policy, rather than delivering valuable products.
+
+Following the derailment of money, people have sought a solution to the problem. Ammous suggests Bitcoin as the answer that will once again lower time preference, and allow for accurate economic calculation and appropriate capital allocation.
+
+Ammous delves into why civilization naturally emerges. His main argument is that civilization simply ends up being the most effective system, and any critique of it using the fruits of civilization (such as books, radio, TV, internet, etc.) inherently acknowledges its merits. Furthermore, anyone not leveraging its efficacy is powerless against it.
