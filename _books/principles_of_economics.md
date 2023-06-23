@@ -10,7 +10,7 @@ long_review: true
 'Principles of Economics' by Saifedean Ammous provides a comprehensive understanding of economics from an Austrian perspective. The book is divided into several parts, with Part 1 focusing on the fundamentals of economics. In this section, Ammous lays the groundwork for the subsequent discussions by exploring the core concepts that underpin economic analysis. Part 2 covers chapters 4-8 and focuses on the general economy.
 
 
-# Part 1
+# Part 1: Fundamentals
 
 ## Chapter 1
 
@@ -26,6 +26,7 @@ Chapter 3 explores the concept of time as the ultimate resource. Ammous argues t
 
 Overall, in the first part of 'Principles of Economics,' Saifedean Ammous establishes a foundation for understanding economics from an Austrian perspective. The chapters elucidate the significance of scarcity, subjective value, and the ultimate resource of time in economic analysis. By exploring these fundamental concepts, the book lays the groundwork for more advanced economic discussions in subsequent sections.
 
+# Part 2: Economy
 
 ## Chapter 4: Labor
 
@@ -66,6 +67,8 @@ Moreover, Ammous criticizes the effectiveness of patent laws, highlighting that 
 Chapter 8 investigates the economics of energy. Ammous presents the argument that while energy itself may be abundant, the true economic good lies in the delivery of power on demand.
 
 He demonstrates the direct link between low energy use and poverty, emphasizing that having more energy provides freedom by enabling output far beyond what individuals can produce directly. Ammous also raises concerns about recent attempts to move away from hydrocarbons, as he suggests that such transitions have resulted in less reliable power grids, making power delivery more challenging to manage.
+
+# Part 3: The Market Order
 
 ## Chapter 9: Trade
 
@@ -112,6 +115,8 @@ As a side note, a similar argument could likely be made regarding other politica
 Chapter 12 delves into the concept of capitalism. Ammous asserts that the litmus test for capitalism is the presence of a free market for capital, commonly represented by the stock market.
 
 Ammous portrays capitalism as entrepreneurial, rather than managerial, arguing that owners of capital are best placed to assess costs and benefits. This perspective then segues into a discussion on the "economic calculation problem". Ammous explains that if one entity owns all capital, it loses price as a signal, hence disrupting the mechanism of efficient allocation.
+
+# Part 4: Monetary Economics
 
 ## Chapter 13: Time Preference
 
@@ -164,6 +169,8 @@ In a system built on commodity credit, all loans require the lender to forego th
 The same scenario plays out with respect to interest rates. The issuance of fiduciary media artificially lowers interest rates, making more ventures seem profitable, leading to their initiation. However, this again bids up prices, increasing costs. Once payments are due, the rates rise again, rendering these companies unprofitable and driving them into bankruptcy.
 
 Ammous argues that under a free market in money, institutions that issue fiduciary media will regularly crash until the surviving institutions act in a more responsible manner. However, with government fiat and bailouts, this is no longer the case. This situation enriches the issuers of fiduciary media at the expense of savers. It's analogous to a king reducing the metal content in coins to issue more, thereby enriching himself at the expense of his subjects.
+
+# Part 5: Civilization
 
 ## Chapter 16: Violence
 
