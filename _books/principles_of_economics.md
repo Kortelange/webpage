@@ -7,9 +7,6 @@ short_review: "Short review not yet available, check page for current notes"
 long_review: true
 ---
 
-'Principles of Economics' by Saifedean Ammous provides a comprehensive understanding of economics from an Austrian perspective. The book is divided into several parts, with Part 1 focusing on the fundamentals of economics. In this section, Ammous lays the groundwork for the subsequent discussions by exploring the core concepts that underpin economic analysis. Part 2 covers chapters 4-8 and focuses on the general economy.
-
-
 # Part 1: Fundamentals
 
 ## Chapter 1
@@ -137,22 +134,6 @@ Towards the end of the chapter, Ammous explains the relationship between time pr
 He then makes the case that under the right conditions - particularly with sufficiently hard money - a free market interest rate of 0% could potentially be realized in commodity credit. This is because lending at 0% interest could feasibly outperform the cost of storing the money, thus impacting the behaviors and decisions of those engaged in lending and borrowing.
 
 ## Chapter 15: Monetary Expansion
-
-Chapter 15 provides a deep dive into the nature of money, with a particular focus on differentiating between commodity credit and circulation credit.
-
-Ammous starts by defining circulation credit, which unlike commodity credit, doesn't necessitate a decrease in present consumption. There are three main ways circulation credit can be created: through fractional reserve banking where financial institutions lend out money while simultaneously making it available on-demand for a depositor; by mismatching maturities on loans and credits, where the due date of loans precedes that of credits; and by reusing collateral in different loans, which permits more money to be lent based on the same capital. This form of credit also goes by the term fiduciary media, defined as notes and balances redeemable for money, but for which the bank does not hold an equivalent amount.
-
-Both fiduciary media and fully reserved notes can be used as money, given their primary purpose is to be exchanged for something else. However, they differ in that fiduciary media expands the money supply, thereby eroding its capacity to maintain purchasing power over time.
-
-Ammous then provides a more detailed exploration of different types of money, dividing it broadly into real money and money substitutes like fully backed notes or fiduciary media. Real money can take three forms: commodity money, an economic good (often precious metals or Bitcoin) used as a medium of exchange; credit money, a future claim on money intended to be used as payment rather than to claim the money; and fiat money, accepted by decree of an authority and can range from paper money and bank deposits to in-game currency like World of Warcraft coins. Money substitutes can comeChapter 15: Monetary Expansion
-
-Chapter 15 provides a deep dive into the nature of money, with a particular focus on differentiating between commodity credit and circulation credit.
-
-Ammous starts by defining circulation credit, which unlike commodity credit, doesn't necessitate a decrease in present consumption. There are three main ways circulation credit can be created: through fractional reserve banking where financial institutions lend out money while simultaneously making it available on-demand for a depositor; by mismatching maturities on loans and credits, where the due date of loans precedes that of credits; and by reusing collateral in different loans, which permits more money to be lent based on the same capital. This form of credit also goes by the term fiduciary media, defined as notes and balances redeemable for money, but for which the bank does not hold an equivalent amount.
-
-Both fiduciary media and fully reserved notes can be used as money, given their primary purpose is to be exchanged for something else. However, they differ in that fiduciary media expands the money supply, thereby eroding its capacity to maintain purchasing power over time.
-
-Ammous then provides a more detailed exploration of different types of money, dividing it broadly into real money and money substitutes like fully backed notes or fiduciary media. Real money can take three forms: commodity money, an economic good (often precious metals or Bitcoin) used as a medium of exchange; credit money, a future claim on money intended to be used as payment rather than to claim the money; and fiat money, accepted by decree of an authority and can range from paper money and bank deposits to in-game currency like World of Warcraft coins. Money substitutes can comeChapter 15: Monetary Expansion
 
 Chapter 15 provides a deep dive into the nature of money, with a particular focus on differentiating between commodity credit and circulation credit.
 
