@@ -15,11 +15,7 @@ Following is an extensive summary outlining the main points of each chapter.
 
 ## Chapter 1
 
-In Chapter 1, Ammous defines economics as the study of human action under conditions of 
-scarcity. He emphasizes that rational choice should be understood as a decision that has 
-been carefully thought about, rather than necessarily being correct. This perspective 
-highlights the importance of individuals making informed decisions given the limited 
-resources available to them.
+In Chapter 1, Ammous defines economics as the study of human action under conditions of scarcity. He emphasizes that rational choice should be understood as a decision that has been carefully thought about, rather than necessarily being correct. This perspective highlights the importance of individuals making informed decisions given the limited resources available to them.
 
 ## Chapter 2
 
