@@ -14,16 +14,10 @@ Two points that caught my attention were Nietzsche's influence on Edvard Munch's
 
 The biography rounds off with a collection of Nietzsche's aphorisms and a detailed chronology of his life. While the chronology did not hold much interest for me, it could serve as a handy reference for others. As for the aphorisms, in my opinion, some of them appeared mundane or challenging to comprehend, potentially due to lack of context. However, a few did stand out as particularly thought-provoking:
 
-Possessions are usually diminished by possession - The Gay Science
-
-Whoever lives for the sake of combatting an enemy has an interest in the enemy's staying alive - Human, All Too Human
-
-He who thinks a lot is not well suited to be a party man: he thinks his way through the party and out the other side to soon - Human, All Too Human
-
-What does not kill me makes me stronger - Twilight of the Idols, or, How to Philosophize with a Hammer
-
-Haste is universal because everyone is in flight from themselves - Schopenhauer as Educator
-
-The state wants people to worship it in the very same idols they previously worshipped in the church - Schopenhauer as Educator
-
-Everything the state says is a lie, and everything it has it has stolen - Thus spoke Zarathustra
+- Possessions are usually diminished by possession - The Gay Science
+- Whoever lives for the sake of combatting an enemy has an interest in the enemy's staying alive - Human, All Too Human
+- He who thinks a lot is not well suited to be a party man: he thinks his way through the party and out the other side to soon - Human, All Too Human
+- What does not kill me makes me stronger - Twilight of the Idols, or, How to Philosophize with a Hammer
+- Haste is universal because everyone is in flight from themselves - Schopenhauer as Educator
+- The state wants people to worship it in the very same idols they previously worshipped in the church - Schopenhauer as Educator
+- Everything the state says is a lie, and everything it has it has stolen - Thus spoke Zarathustra
