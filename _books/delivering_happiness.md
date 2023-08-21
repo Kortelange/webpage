@@ -29,7 +29,7 @@ Zappos then switched focus to become a brand centered on customer service. Tony 
 
 ### Employee Development and Training
 
-Zappos implemented a "pipeline" approach for training employees from within, avoiding dependency on outside hires and ensuring consistent company values. New hires were even offered $2,000 to quit after their first week, filtering out those not aligned with Zappos' culture. Employees were encouraged to read books from the Zappos-library to foster continuous learning and cultivate a shared culture. Some notable recommendations include "Good to Great", "Tribal Leadership", and "Flow".
+Zappos implemented a "pipeline" approach for training employees from within, avoiding dependency on outside hires and ensuring consistent company values. New hires were even offered $2,000 to quit after their first week, filtering out those not aligned with Zappos' culture. Employees were encouraged to read books from the Zappos-library to foster continuous learning and cultivate a shared culture. Some notable recommendations include "Good to Great", "Tribal Leadership", and "Flow", others can be found [here](https://blog.deliveringhappiness.com/our-favorite-books).
 
 ### Sale to Amazon and Alignment
 
