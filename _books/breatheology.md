@@ -14,6 +14,8 @@ I found the book compelling and it has inspired me to try the proposed technique
 # Documentation/progress
 (2023/07/29) - Been doing some exercises for about a week now, feel slight progress in my 'natural breath rythm'
 
+(2023/10/22) - My natural breathing rhythm has improved, now steady at 10 breaths every three minutes when relaxed. Additionally, my 'Ujjayi' breathing technique has progressed: a consistent pattern of a 4-second inhale, an 8-second hold, an 8-second exhale, and another 8-second hold. I've also begun integrating 'Mula Bandha' or 'Root Lock' into this routine.
+
 ## Chapter 1:
 This chapter tackles stress management in daily life, distinguishing between short-term 'good stress' induced by activities like exercise and long-term 'bad stress' from persistent high alert states. It proposes breathwork as an effective tool for mitigating stress, emphasizing that controlling one's breath can provide positive feedback, similar to how poor stress management negatively affects well-being. The chapter concludes with helpful dietary suggestions and a simple relaxation exercise performed while lying supine.
 
