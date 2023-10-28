@@ -3,7 +3,7 @@ layout: book
 title: "Seven Habits of Highly Effective People"
 author: "Steven R. Covey"
 rating: 4
-short_review: "Short review not yet available, check page for current notes"
+short_review:
 long_review: true
 ---
 In "The 7 Habits of Highly Effective People," Stephen Covey outlines a comprehensive framework for achieving personal and interpersonal success. Among these habits, I found Habits 3 and 5 particularly compelling and am eager to implement them in my own life. Below is a detailed overview of all seven habits:

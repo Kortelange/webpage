@@ -3,11 +3,11 @@ layout: book
 title: "Delivering Happiness"
 author: "Tony Hsieh"
 rating: 4
-short_review: "Short review not yet available, check page for current notes"
+short_review: "'Delivering Happiness' provides a compelling look into Tony Hsieh's entrepreneurial journey, the creation of Zappos, and the importance of company culture in shaping brand reputation. Through entertaining stories and insightful lessons, the book illustrates how dedication to customer service and long-term relationships can drive success and fulfillment in business and life. Tony's journey and the story of Zappos offer valuable lessons for entrepreneurs and business leaders looking to create customer-centric organizations with strong, sustainable cultures."
 long_review: true
 ---
 
-"Delivering Happiness" provides a compelling look into Tony Hsieh's entrepreneurial journey, the creation of Zappos, and the importance of company culture in shaping brand reputation. Through entertaining stories and insightful lessons, the book illustrates how dedication to customer service and long-term relationships can drive success and fulfillment in business and life. Tony's journey and the story of Zappos offer valuable lessons for entrepreneurs and business leaders looking to create customer-centric organizations with strong, sustainable cultures.
+
 
 ### Early Life and Business Ventures 
 

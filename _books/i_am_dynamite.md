@@ -3,10 +3,10 @@ layout: book
 title: "I Am Dynamite"
 author: "Susan Prideaux"
 rating: 2
-short_review: "Short review not yet available, check page for current notes"
+short_review: "In 'I am Dynamite - The Life of Friedrich Nietzsche', Susan Prideaux undertakes the task of charting Friedrich Nietzsche's life and philosophical ideas. Personally, I found some portions of the book less engaging, yet, as the narrative unfolded, it did gain some momentum. The title, 'I am dynamite', gradually revealed its significance, symbolizing the potential power and peril of Nietzsche's ideas, and pointing towards their unfortunate misinterpretations, notably their misuse by the Nazis."
 long_review: true
 ---
-In "I am Dynamite - The Life of Friedrich Nietzsche", Susan Prideaux undertakes the task of charting Friedrich Nietzsche's life and philosophical ideas. Personally, I found some portions of the book less engaging, yet, as the narrative unfolded, it did gain some momentum. The title, "I am dynamite," gradually revealed its significance, symbolizing the potential power and peril of Nietzsche's ideas, and pointing towards their unfortunate misinterpretations, notably their misuse by the Nazis.
+
 
 Being a biography, the book naturally concentrates more on Nietzsche's life than on an in-depth analysis of his philosophical works. However, it did manage to spark my curiosity about "Ecce Homo" and "Antichrist". I was intrigued by the depiction of Jesus as a joyous anarchist whose teachings were later warped to encourage a 'slave mentality.' Equally compelling was Nietzsche's self-satire in "Ecce Homo."
 

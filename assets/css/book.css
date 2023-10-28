@@ -12,15 +12,27 @@
     font-family: 'Open Sans', sans-serif;
     margin-bottom: 10px; /* Spacing between each card */
     border-radius: 10px; /* Rounded corners */
-    max-height: 80px;
     overflow: hidden;
-    transition: max-height 0.5s ease-in-out;
 }
 
 /* Styling for the card when it is hovered over */
-.book-card:hover {
-    max-height: 1000px;
+.book-links {
+    display: flex;
+    justify-content: space-between;
+    padding: 0 20px 20px;
 }
+
+.expand-short-review, .long-review {
+    text-decoration: none;
+    cursor: pointer;
+    color: #007BFF;
+}
+
+.expand-short-review:hover, .long-review:hover {
+    text-decoration: underline;
+}
+
+
 
 /* Styling for the container of the book card */
 .container, .book-card {
@@ -31,25 +43,46 @@
 /* Styling for the header within the book card */
 .book-card .header {
     display: flex;
-    justify-content: space-between;
-    padding: 20px;
-    align-items: baseline;
+    padding: 5px 20px;
+    align-items: center;
+    gap: 2%;
 }
 
-/* Styling for the headings within the book card */
-.book-card h1 {
-    font-size: 18px;
-    color: #333333;
+.title {
+    flex-basis: 50%;  
+    flex-grow: 1;  
+    text-align: left;
 }
+
+.author {
+    flex-basis: 25%; 
+    flex-grow: 1;  
+    text-align: left;
+}
+
+.rating {
+    flex-basis: 15%;  
+    flex-grow: 1;  
+    text-align: right;
+}
+
+.book-card h2 {
+    font-size: 20px;
+    color: #333333;
+    margin: 10px 0px;
+}
+
+
 
 /* Styling for the paragraph text within the book card */
 .book-card p {
-    padding: 20px;
+    padding:  5px 20px;
     text-align: justify;
+    margin: 0;
 }
 
 /* Styling for the links within the book card headings */
-.book-card h1  a {
+.book-card h2  a {
     text-decoration: none;
     color: #333333;
 }
@@ -102,3 +135,17 @@
     max-width: 800px;
     margin: auto;
 }
+
+.short-review {
+    max-height: 0;
+    opacity: 0;
+    overflow: hidden;
+    transition: max-height 0.5s ease, opacity 0.5s ease; /* Transition effects */
+}
+
+.short-review.active {
+    max-height: 1000px; /* Adjust as needed based on your content */
+    opacity: 1;
+}
+
+
