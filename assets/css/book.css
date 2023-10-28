@@ -12,15 +12,27 @@
     font-family: 'Open Sans', sans-serif;
     margin-bottom: 10px; /* Spacing between each card */
     border-radius: 10px; /* Rounded corners */
-    max-height: 80px;
     overflow: hidden;
-    transition: max-height 0.5s ease-in-out;
 }
 
 /* Styling for the card when it is hovered over */
-.book-card:hover {
-    max-height: 1000px;
+.book-links {
+    display: flex;
+    justify-content: space-between;
+    padding: 0 20px 20px;
 }
+
+.expand-short-review, .long-review {
+    text-decoration: none;
+    cursor: pointer;
+    color: #007BFF;
+}
+
+.expand-short-review:hover, .long-review:hover {
+    text-decoration: underline;
+}
+
+
 
 /* Styling for the container of the book card */
 .container, .book-card {
@@ -101,4 +113,8 @@
 .review-box {
     max-width: 800px;
     margin: auto;
+}
+
+.short-review {
+    display: none;
 }
