@@ -122,5 +122,15 @@
 }
 
 .short-review {
-    display: none;
+    max-height: 0;
+    opacity: 0;
+    overflow: hidden;
+    transition: max-height 0.5s ease, opacity 0.5s ease; /* Transition effects */
 }
+
+.short-review.active {
+    max-height: 300px; /* Adjust as needed based on your content */
+    opacity: 1;
+}
+
+
