@@ -3,11 +3,11 @@ layout: book
 title: "Zen and the art of motorcycle maintenance"
 author: "Robert M. Pirzig"
 rating: 5
-short_review: "Short review not yet available, check page for current notes"
+short_review: "'Zen and the art of motorcycle maintenance' is a book about a father and a son riding a motorcycle together. At the surface level not much happens but a lot happens beneath. Numerous fascinating concepts are discussed, some of which are highlighted below, yet there are many more. I found the insights into creativity and the overcoming of barriers that typically make technical objects appear ugly, enabling their beauty to shine through, especially interesting. This book deserves a slow read, and I found that attempting to explain the ideas myself deepened my appreciation for them. I definitely plan to elaborate on these notes upon a subsequent read-through."
 long_review: true
 ---
 
-"Zen and the art of motorcycle maintenance" is a book about a father and a son riding a motorcycle together. At the surface level not much happens but a lot happens beneath. Numerous fascinating concepts are discussed, some of which are highlighted below, yet there are many more. I found the insights into creativity and the overcoming of barriers that typically make technical objects appear ugly, enabling their beauty to shine through, especially interesting. This book deserves a slow read, and I found that attempting to explain the ideas myself deepened my appreciation for them. I definitely plan to elaborate on these notes upon a subsequent read-through.
+
 
 ## Classical and Romantic understanding
 Pirsig talks about two main ways people see the world: Classical and Romantic understanding. The Classical approach is analytical, digging into the mechanics and structures of things, often breaking them into smaller bits. It is about finding beauty in function, not necessarily in sensation. In contrast, the Romantic approach is rooted in feeling and intuition, focusing on the aesthetics and the experience of things.

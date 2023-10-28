@@ -3,13 +3,11 @@ layout: book
 title: "Breatheology: The Art Of Conscious Breathing"
 author: "Stig Åvall Severinsen"
 rating: 4
-short_review: "Short review not yet available, check page for current notes"
+short_review: "Breatheology (træk vejret) by Stig Åvall Severinsen provides an insightful exploration into the transformative power of breath and its substantial impact on our health, well-being, and overall performance. Through a seamless integration of scientific insights and practical exercises, the book demystifies the art of breathwork—from the fundamental mechanics of our respiratory system to its influential role in stress management, disease treatment, and pain alleviation. Severinsen, a renowned free diver, enthusiastically advocates for integrating breathwork into daily routines and underscores the value of using these breathing exercises as a complementary addition to traditional medical treatments.
+
+I found the book compelling and it has inspired me to try the proposed techniques. While I'm yet to fully engage with these practices, I'm motivated to document my progress as I practice the techniques further."
 long_review: true
 ---
-
-Breatheology (træk vejret) by Stig Åvall Severinsen provides an insightful exploration into the transformative power of breath and its substantial impact on our health, well-being, and overall performance. Through a seamless integration of scientific insights and practical exercises, the book demystifies the art of breathwork—from the fundamental mechanics of our respiratory system to its influential role in stress management, disease treatment, and pain alleviation. Severinsen, a renowned free diver, enthusiastically advocates for integrating breathwork into daily routines and underscores the value of using these breathing exercises as a complementary addition to traditional medical treatments.
-
-I found the book compelling and it has inspired me to try the proposed techniques. While I'm yet to fully engage with these practices, I'm motivated to document my progress as I delve deeper into the transformative world of breathwork.
 
 # Documentation/progress
 (2023/07/29) - Been doing some exercises for about a week now, feel slight progress in my 'natural breath rythm'

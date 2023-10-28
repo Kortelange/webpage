@@ -3,11 +3,9 @@ layout: book
 title: "Principles of Economics"
 author: "Saifedean Ammous"
 rating: 5
-short_review: "Short review not yet available, check page for current notes"
+short_review: "'Principles of Economics' is an excellent book that offers thought-provoking material in a concise and interconnected manner. Divided into five parts, it covers the fundamentals, economy, market economy, monetary economics, and civilization. Through its clear language and progressive approach, the book enhances understanding of capital formation, market interactions, division of labor, and their impact on civilization. It is a valuable resource for anyone seeking a deeper understanding of economics and its role in society."
 long_review: true
 ---
-
-"Principles of Economics" is an excellent book that offers thought-provoking material in a concise and interconnected manner. Divided into five parts, it covers the fundamentals, economy, market economy, monetary economics, and civilization. Through its clear language and progressive approach, the book enhances understanding of capital formation, market interactions, division of labor, and their impact on civilization. It is a valuable resource for anyone seeking a deeper understanding of economics and its role in society. Available on Amazon and saifedean.com (which accepts bitcoin).
 
 Following is an extensive summary outlining the main points of each chapter.
 
