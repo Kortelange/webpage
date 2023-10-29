@@ -144,7 +144,7 @@
 }
 
 .short-review.active {
-    max-height: 300px; /* Adjust as needed based on your content */
+    max-height: 1000px; /* Adjust as needed based on your content */
     opacity: 1;
 }
 
