@@ -43,21 +43,36 @@
 /* Styling for the header within the book card */
 .book-card .header {
     display: flex;
-    justify-content: space-between;
-    padding: 10px 20px;
-    align-items: baseline;
+    padding: 5px 20px;
+    align-items: center;
+    gap: 2%;
 }
 
-/* Styling for the headings within the book card */
+.title {
+    flex-basis: 50%;  
+    flex-grow: 1;  
+    text-align: left;
+}
+
+.author {
+    flex-basis: 25%; 
+    flex-grow: 1;  
+    text-align: left;
+}
+
+.rating {
+    flex-basis: 15%;  
+    flex-grow: 1;  
+    text-align: right;
+}
+
 .book-card h2 {
     font-size: 20px;
     color: #333333;
     margin: 10px 0px;
 }
 
-.book-card h3 {
-    margin: 10px 0px;
-}
+
 
 /* Styling for the paragraph text within the book card */
 .book-card p {

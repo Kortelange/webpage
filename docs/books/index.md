@@ -10,9 +10,9 @@ title: Books
 {% for book in site.books %}
 <div class="book-card">
     <div class="header">
-        <h2><a href="{{ book.url | relative_url }}">{{ book.title }}</a></h2>
-        <h3>{{ book.author }}</h3>
-        <h3>{{ site.ratings[book.rating] | default: "Not rated" }}</h3>
+        <h2 class="title"><a href="{{ book.url | relative_url }}">{{ book.title }}</a></h2>
+        <h2 class="author">{{ book.author }}</h2>
+        <h2 class="rating">{{ site.ratings[book.rating] | default: "Not rated" }}</h2>
     </div>
     <p class="short-review">{{ book.short_review | default: "Short review not available" }}</p>
     <div class="book-links">
