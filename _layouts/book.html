@@ -4,10 +4,7 @@ layout: default
 
 <div class="book-page">
     <div class="header">
-        <h2>{{ page.title }}</h2>
-        <h2>{{ book.author }}</h2>
-        <h2>{{ site.ratings[book.rating] | default: "Not rated" }}</h2>
-        
+        <h2>{{ page.title }} - {{ page.author }} - {{ site.ratings[page.rating] | default: "Not rated" }}</h2>        
     </div>
     <div class="review-box">
         {{ page.short_review }}
