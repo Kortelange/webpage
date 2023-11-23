@@ -2,7 +2,7 @@
 layout: book
 title: "Death"
 author: "Todd May"
-rating: 3
+rating: 2
 short_review: "'Death' by Todd May deals with the topic of being alive and knowing that some day you will die. The book suggests that ones own death is the most important event in ones life as it is the event that gives it meaning. It is a short book and while it does have some good points, I did not find it very interesting."
 long_review: true
 ---
