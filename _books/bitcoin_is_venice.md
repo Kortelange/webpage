@@ -84,3 +84,27 @@ Bitcoin is compared to Renaissance Venice, a symbol of the transition from feuda
 
 ### Bitcoin is
 The chapter concludes with a simple yet profound statement: Regardless of individual opinions, Bitcoin exists as a significant and influential entity in the modern financial landscape.
+
+## Chapter 7: A Capital Renaissance
+#TODO: Write this section
+
+## Chapter 8: These Were Capitalists
+In Chapter 8, "These Were Capitalists," the authors expand on their earlier discussions of capital by introducing the concepts of social, urban, and cultural capital. This exploration is rooted in their definition of capital as something produced but not yet consumed.
+
+The chapter begins with the concept of social capital, which is defined as the ability to productively utilize established networks. Social capitalists are those who nurture and build trust within relationships. The authors present Jesus as an example, portraying him as a symbol of the grassroots growth of Christianity under the top-down regime of the Roman Empire, which Christianity ultimately outlasted. A key lesson from Jesus’ teachings is the value of accepting individuals as free and allowing them to choose Christianity of their own accord, a stark contrast to later institutional forces within the church that compelled Christian conversion.
+
+Another figure discussed is Martin Luther King Jr., who epitomizes social capitalism through his pacifist approach to combating segregation. King’s efforts were directed towards creating an inclusive network that embraced both black and white individuals. His leadership and philosophy are highlighted as examples of building social capital, aimed at establishing a network accessible to everyone, regardless of race.
+
+In the section on urban capital, the authors explore the shift from local, self-directed building to centralized, top-down urban planning. They suggest this change was influenced by the advent of the automobile and the perceived success of central planning during World War II. The chapter contrasts urban capitalist Jane Jacobs with top-down planners like Robert Moses or Le Corbusier. Jacobs is celebrated for her view of cities as intricate districts catering to diverse individual needs, a perspective that challenges the feasibility of top-down planning. Conversely, Moses' approach, focused more on the needs of cars than people, led to the construction of housing that ultimately failed to attract residents, exacerbating housing shortages.
+
+The discussion on cultural capital addresses the nature of good and bad art. The authors assert that good art is contextually aware, contributing to the cultural stock by engaging with past and future ideas. In contrast, bad art lacks this awareness and context, serving merely as a transient flow without adding to the cultural fabric. They criticize the modern art trend of prioritizing irony and shock value, which they view as failing to build upon cultural capital. The authors commend black American culture for its substantial contribution to 20th-century cultural capital through genres like ragtime, blues, jazz, and hip hop, though they critique certain aspects of self-derogatory hip hop.
+
+The chapter concludes by highlighting the Medici bankers' role in shaping cultural legacy. The Medicis are recognized for their patronage of artists and architects, funding works that have left a lasting impact on cultural capital. This section underscores the significance of investment in culture, both as a form of capital and as a legacy that transcends generations.
+
+## Chapter 9: Global Money, Local Freedom
+
+In the concluding chapter, the authors weave together the concepts from previous chapters, suggesting that Bitcoin's rise will diminish 'toxic bigness' in both government and corporate sectors while bolstering local communities. They argue that Bitcoin is a unique asset: easy and virtually costless to protect, yet it's extremely expensive to attack—a characteristic unprecedented in financial history. This aspect of Bitcoin, they suggest, has the potential to disrupt the current dynamics of power and wealth.
+
+The link between wealth and power in the fiat system is explored. In any system, wealth can buy power, but since fiat money creation is political, power itself enables further money creation, reinforcing 'bigness.' However, Bitcoin subverts this dynamic. Its creation requires significant energy and resource investment, and its secure storage renders it nearly impervious to acquisition through force. Therefore, acquiring Bitcoin necessitates providing genuine value, as opposed to leveraging size and power. This shift, the authors believe, levels the playing field, empowering those with local knowledge and reducing the advantages traditionally enjoyed by the powerful and large entities.
+
+The chapter serves as a comprehensive conclusion to the book, encapsulating its central themes. While it is not a standalone chapter, it effectively summarizes the book's main arguments, reinforcing the notion that Bitcoin could be a catalyst for a more equitable and locally empowered world. The authors encourage readers to explore the entire book for a fuller understanding of these complex and interrelated ideas.
