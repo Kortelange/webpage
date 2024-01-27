@@ -30,7 +30,7 @@ Following this, complexity theory and Poincaré's "Three-Body Problem" is used t
 To address how markets leverage efficiency the authors explain how prices in markets work. It is emphasized that while a price conveys information, it does not contain all information about the price. Drawing from Friedrich Hayek's insights in "The Use of Knowledge in Society," a price is described as a distilled summary of individual information, providing a comparative benchmark. It reflects how challenging or easy it is to obtain something relative to other desires, without detailing the specific reasons. This system allows individuals to apply their own knowledge and resources to make economical choices, extracting maximum value based on these price signals. This explanation underlines the unique function of prices in conveying important economic information.
 
 
-## REWRITE NEXT TWO PARAGRAPHS
+## TODO: REWRITE NEXT TWO PARAGRAPHS
 Add here how markets aggregrate prices which is the projection of info, instead of projecting the aggregation of information.
 
 The authors emphasize that using debt or leverage alone cannot outperform the market. Markets, over time, naturally weed out unproductive leverage. Companies with excessive debt relative to market conditions risk collapse, while those with insufficient leverage may see reduced profits. This dynamic pushes markets toward an 'optimal' leverage level, which constantly adjusts to shifting societal conditions.
@@ -96,7 +96,62 @@ Bitcoin is compared to Renaissance Venice, a symbol of the transition from feuda
 The chapter concludes with a simple yet profound statement: Regardless of individual opinions, Bitcoin exists as a significant and influential entity in the modern financial landscape.
 
 ## Chapter 7: A Capital Renaissance
-#TODO: Write this section
+Part 1: New Forms of Forming Capital
+
+The first part of "A Capital Renaissance" delves into how Bitcoin could revolutionize capital formation. It begins with an exploration of "common pool resources" (CPR) and positions money as a CPR. A key focus is on discrete log contracts (DLCs) and their potential to democratize hedging opportunities, making them accessible beyond the well-capitalized elite. The authors then shift to contemporary work culture, contrasting the current emphasis on management over craftsmanship with past practices where mastery of a craft preceded leadership. Finally, they examine the architecture of the internet, which has led to big tech monopolies. This is attributed to the asymmetry where requests are easy to make but hard to block. The authors propose that Bitcoin and Lightning (or other layers) could counter this by introducing a cost for requests, thereby filtering out genuine interactions and reshaping the internet to be "free as in freedom, not as in beer."
+Part 2: Changing the Environment
+
+In the second part, the focus shifts to environmental implications. The authors discuss how Bitcoin mining incentivizes the development of cheaper, more efficient energy sources. They speculate on how this could restructure human civilization, with energy infrastructure being developed even before traditional grid systems, potentially attracting populations to these areas. The chapter also covers how Bitcoin mining can economically mitigate methane emissions from flaring. Finally, the authors touch on soil depletion, arguing that Bitcoin's long-term thinking could contribute positively to this issue.
+Bullet Points for Next Reading
+
+- Common Pool Resources (CPR): Understand how money is categorized as a CPR and its implications.
+- Discrete Log Contracts (DLCs): Explore how DLCs can expand access to hedging and their potential impact on financial inclusivity.
+- Work Culture Shift: Note the contrast between modern management-focused culture and historical emphasis on craftsmanship.
+- Internet Architecture and Big Tech: Pay attention to the discussion on internet requests and how Bitcoin/Lightning propose to alter this dynamic.
+- Bitcoin and Energy Incentives: Focus on how Bitcoin mining could drive the evolution of energy sources and infrastructure.
+- Civilization Structure: Consider the implications of energy development preceding grid infrastructure on societal patterns.
+- Methane Emission Reduction: Understand how Bitcoin mining could be used to address environmental concerns like methane flaring.
+- Soil Depletion and Long-Term Thinking: Reflect on how the long-term perspective inherent in Bitcoin philosophy might benefit environmental issues like soil health.
+
+## Rewritten version
+### Money as a Common Pool Resource
+In the chapter titled 'A Capital Renaissance,' the authors explore Elinor Ostrom's concept of a 'Common Pool Resource' (CPR). These resources are characterized by their shared nature, where individual exclusion is challenging, but their use leads to depletion. This concept is contrasted with 'public goods,' which are non-excludable and do not deplete through use. For example, a community's fish stock is a CPR — fishing reduces the stock, making it subtractable, whereas air is a public good as it is non-excludable and breathing does not diminish its availability to others.
+
+In this context, money is categorized as a CPR. Its value lies partly in its ability to facilitate capital building and establish trust for trade among strangers, functioning as a form of social capital. However, the misuse of money, such as through excessive printing and debt issuance, leads to the 'strip mining' of capital, as previously discussed. This misuse erodes trust in the monetary institution, thereby devaluing the currency for all who rely on it.
+
+The authors emphasize the importance of distinguishing between what is public and private. While the institution of money is public, individual balance sheets are private, similar to how fish caught from a communal stock become private property.
+
+### New forms of financing and a 'risk free rate'
+In the second part of the chapter, the authors discuss how Bitcoin could transform current financialization methods. Due to its capped supply, Bitcoin cannot be endlessly used to finance failing ventures. Additionally, they propose that the Lightning Network, a layer built on top of Bitcoin, could establish a natural 'risk-free' interest rate, a role currently held by government bonds. The Lightning Network operates by locking up Bitcoin in a network of channels between participants and routing payments for a small fee. Channels can be closed for a fee, making the process essentially 'risk-free'. The costs involved are the fees for opening and closing channels, as well as the opportunity cost of having funds tied up.
+
+Further, they describe how various 'sidechains' and additional layers on Bitcoin could enable new forms of financialization, eliminating the need for middleman market makers. One example given is betting markets. Traditionally, such markets require significant liquidity and market makers due to the need for large capital and participants on both sides of bets. With smart contracts on Bitcoin, individuals could create betting contracts for others to take the opposite side. These contracts could be enforced based on outcomes reported by a mutually agreed-upon entity, eliminating the need for a market maker. These contracts could be used for a range of purposes, from sports betting to hedging against weather conditions. For instance, a taxi driver could hedge against sunny days, while a surf instructor might hedge against rain, thereby mutually reducing the inherent uncertainty of each job and supporting each other on days they would otherwise earn less.
+
+The authors also note that betting markets are often more efficient at predicting outcomes compared to voting or polls, as they reflect the beliefs of individuals weighted by their certainty. This concept is further explored in the book 'The Wisdom of Crowds'.
+
+### Freing Human Capital
+The most significant shift with the introduction of Bitcoin as money is its ability to store value. This fundamental change removes the need for the average person to constantly 'invest' to preserve their wealth, freeing up time and resources for more productive pursuits. Additionally, the nature of Bitcoin transactions significantly reduces the need for financial intermediaries. This reduction in intermediary involvement allows merchants and entrepreneurs to focus more on their core business activities, their craft, and their customers, rather than on financial management.
+
+The authors discuss how the prevalence of financial intermediaries has shifted work culture, leading to an undervaluing of individual craftsmanship and a focus on the 'sellability' of unproven ideas. This trend has steered companies towards investing in potential rather than in concrete achievements. Additionally, there's a growing emphasis on leadership skills without the foundational experience of hands-on work, reversing the traditional trajectory of learning to work before leading.
+
+### A Free and Open Internet
+In the next section, the authors explore the structure of the internet and how it has led to the emergence of large tech monopolies, often characterized by internet censorship and the enforcement of specific agendas. They explain that the internet is built in layers, with the foundational layer allowing free request sending. While this is beneficial, it also presents challenges in managing verifiable identities and scaling, due to the complexities in routing and the prevalence of spam.
+
+To explore how the internet can once again become free from censorship, the authors discuss the evolution of streaming. Initially, streaming was facilitated by torrents, which, despite their decentralized nature, were difficult to maintain and offered little in terms of rewards. This challenge led to the rise of centralized platforms such as Netflix and Spotify. However, with the advent of the Lightning Network and other potential layers and sidechains, the possibility of micropayments has emerged. These micropayments allow users to 'stream as they go' and to contribute small amounts, like a penny, for content they find valuable, as seen on platforms like Fountain or Nostr.
+
+This development could revitalize interest in running torrents, combining the benefits of decentralization with a new incentive model. By requiring micropayments for interactions, it could also be a solution to spam, potentially paving the way for a more open, censorship-resistant internet. 
+
+### Bitcoin, Energy and the Environment
+
+At the beginning of their discussion on Bitcoin and its effects on the environment, the authors argue that increased energy consumption generally leads to enhanced human flourishing. They explain how Bitcoin mining can fund the development of inexpensive energy sources without the need for immediate grid connectivity, thereby improving the quality of life in these areas.
+
+There are three unique properties of Bitcoin mining that enable this. First, miners can monetize any electricity-generating resource, even in locations without an existing electricity grid. The second property arises from the first: as many miners are located near cheap energy sources, mining in populated areas, where people have 'better uses' for electricity, becomes unprofitable. The third property is the mobility of miners, who can easily relocate to new, more cost-effective mining destinations.
+
+This ability to monetize any electricity-generating resource promotes the establishment of power generation in areas lacking infrastructure for local consumption. Over time, as local populations start accessing these power sources, the economic dynamics would eventually render mining unprofitable in these areas, leading miners to relocate. The authors also speculate that this dynamic could inspire a new approach to city planning, focusing on areas with cheap and abundant energy resources, rather than traditional factors like open waterways.
+
+The authors also discuss how Bitcoin mining can aid in reducing carbon emissions. One of the most effective ways it does this is by enabling the profitable and efficient conversion of methane, released during oil production, into carbon dioxide. During oil production, methane, a potent greenhouse gas, is often released into the atmosphere. Typically, it's converted to carbon dioxide by burning, but this process doesn't capture everything, and complete capture is uneconomical. However, capturing methane to generate electricity, which can then be used to power Bitcoin miners, makes this conversion profitable while simultaneously reducing emissions. The authors note that the amount of methane released from flaring could power the Bitcoin network several times over. Additionally, miners can reduce emissions by acting as a marginal buyer of wind and solar energy during periods of overproduction, and quickly shutting off when production decreases. This flexibility allows them to serve as an effective and profitable load balancer, facilitating the integration of larger amounts of wind and solar energy into the grid.
+
+In the end, the authors suggest that Bitcoin's most significant environmental impact will be in promoting long-term thinking. As people feel less pressured to spend due to the non-debasement of their money, the shift towards savings-based economies will enable better decision-making, especially during tough times. For example, a farmer with savings, as opposed to one in debt, can afford to use their savings during challenging periods rather than over-exploiting their land.
+
 
 ## Chapter 8: These Were Capitalists
 In Chapter 8, "These Were Capitalists," the authors expand on their earlier discussions of capital by introducing the concepts of social, urban, and cultural capital. This exploration is rooted in their definition of capital as something produced but not yet consumed.
