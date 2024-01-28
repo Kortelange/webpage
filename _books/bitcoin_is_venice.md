@@ -3,9 +3,11 @@ layout: book
 title: "Bitcoin is Venice"
 author: "Allen Farrington and Sascha Meyers"
 rating: 5
-short_review:
+short_review: "'Bitcoin is Venice' examines how Bitcoin's emergence as a currency could revolutionize society. Each chapter introduces thought-provoking ideas, which provided me with many insights. My key takeaway is a reimagined view of Capitalism, emphasizing the lasting impact of tangible creations like buildings and technology, rather than immediate consumption. The book paints an optimistic future, highlighting advancements in both technology and culture. While it is one of my favorite books, I wouldn't recommend it as an introductory read on Bitcoin. Newcomers might benefit more from a simpler book that focuses on fewer concepts and spends more time explaining each."
 long_review: true
 ---
+
+
 
 ## Chapter 1: Wrestling with the truth
 In the first chapter the authors draw an analogy between the evolution of martial arts,  through the emergence of Mixed Martial Arts (MMA), and the principles of free markets. MMA revolutionized the martial arts world by creating a competitive environment where a variety of fighting styles and techniques were tested against each other, mirroring the way free markets allow for the competition of ideas and innovations based on their merit and effectiveness. 
@@ -27,13 +29,9 @@ The authors of go on to highlight a critical flaw in the Random Walk Hypothesis,
 
 Following this, complexity theory and Poincaré's "Three-Body Problem" is used to explain why economic systems resist equilibria. The Three-Body Problem, which deals with the unpredictable motion of three or more objects in a vacuum, demonstrates the sensitivity of systems to initial conditions. This concept implies that in a constantly changing world, economic systems are more likely to move away from equilibrium rather than towards it. As a fun and interesting sidenote, this means that most mathematical modelling of the economy is not only wrong but actually meaningless.
 
-To address how markets leverage efficiency the authors explain how prices in markets work. It is emphasized that while a price conveys information, it does not contain all information about the price. Drawing from Friedrich Hayek's insights in "The Use of Knowledge in Society," a price is described as a distilled summary of individual information, providing a comparative benchmark. It reflects how challenging or easy it is to obtain something relative to other desires, without detailing the specific reasons. This system allows individuals to apply their own knowledge and resources to make economical choices, extracting maximum value based on these price signals. This explanation underlines the unique function of prices in conveying important economic information.
+To address how markets leverage efficiency the authors explain how prices in markets work. It is emphasized that while a price conveys information, it does not contain all information about the price. Drawing from Friedrich Hayek's insights in "The Use of Knowledge in Society," a price is described as a distilled summary of individual information, providing a comparative benchmark. It reflects how challenging or easy it is to obtain something relative to other desires, without detailing the specific reasons. This system allows individuals to apply their own knowledge and resources to make economical choices, extracting maximum value based on these price signals. An important realisation is that the price is not a 'projection' of all available knowledge in society, it is rather individuals themselves who project their own knowledge into theirn own price which markets then aggregate.
 
-
-## TODO: REWRITE NEXT TWO PARAGRAPHS
-Add here how markets aggregrate prices which is the projection of info, instead of projecting the aggregation of information.
-
-The authors emphasize that using debt or leverage alone cannot outperform the market. Markets, over time, naturally weed out unproductive leverage. Companies with excessive debt relative to market conditions risk collapse, while those with insufficient leverage may see reduced profits. This dynamic pushes markets toward an 'optimal' leverage level, which constantly adjusts to shifting societal conditions.
+The authors emphasize that using debt or leverage alone cannot outperform the market. Markets, over time, naturally weed out unproductive leverage. Companies with excessive debt relative to market conditions risk collapse, while those with insufficient leverage may see reduced profits. This dynamic forces markets to seek an 'optimal' leverage level, which constantly adjusts to shifting societal and economic conditions.
 
 ## Chapter 3: This is not Capitalism
 In the chapter, "This is not capitalism," the authors dissect the essence of true capitalism and contrast it with the current economic system. They begin by defining capital, explaining it as both consumable goods and the machinery or entities that produce these goods. They argue that in the  current system there is too much focus on the 'flow' (what is produced) relative to the 'stock' (what is owned). In a capitalist system they argue, wise investments are those that yield a high flow relative to the stock invested. The authors argue that true capitalism involves nurturing and growing this stock to secure greater flows in the future.
