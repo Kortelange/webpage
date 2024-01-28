@@ -94,26 +94,10 @@ Bitcoin is compared to Renaissance Venice, a symbol of the transition from feuda
 The chapter concludes with a simple yet profound statement: Regardless of individual opinions, Bitcoin exists as a significant and influential entity in the modern financial landscape.
 
 ## Chapter 7: A Capital Renaissance
-Part 1: New Forms of Forming Capital
+This chapter discusses how Bitcoin could usher in a new era of capital formation. The exploration covers various aspects: money as a 'common resource,' Bitcoin's introduction of new financing methods for individuals, its potential to free up human time for productive endeavors, its role in decentralizing the internet, and its benefits for the environment, including innovative ways to increase energy generation capacity.
 
-The first part of "A Capital Renaissance" delves into how Bitcoin could revolutionize capital formation. It begins with an exploration of "common pool resources" (CPR) and positions money as a CPR. A key focus is on discrete log contracts (DLCs) and their potential to democratize hedging opportunities, making them accessible beyond the well-capitalized elite. The authors then shift to contemporary work culture, contrasting the current emphasis on management over craftsmanship with past practices where mastery of a craft preceded leadership. Finally, they examine the architecture of the internet, which has led to big tech monopolies. This is attributed to the asymmetry where requests are easy to make but hard to block. The authors propose that Bitcoin and Lightning (or other layers) could counter this by introducing a cost for requests, thereby filtering out genuine interactions and reshaping the internet to be "free as in freedom, not as in beer."
-Part 2: Changing the Environment
-
-In the second part, the focus shifts to environmental implications. The authors discuss how Bitcoin mining incentivizes the development of cheaper, more efficient energy sources. They speculate on how this could restructure human civilization, with energy infrastructure being developed even before traditional grid systems, potentially attracting populations to these areas. The chapter also covers how Bitcoin mining can economically mitigate methane emissions from flaring. Finally, the authors touch on soil depletion, arguing that Bitcoin's long-term thinking could contribute positively to this issue.
-Bullet Points for Next Reading
-
-- Common Pool Resources (CPR): Understand how money is categorized as a CPR and its implications.
-- Discrete Log Contracts (DLCs): Explore how DLCs can expand access to hedging and their potential impact on financial inclusivity.
-- Work Culture Shift: Note the contrast between modern management-focused culture and historical emphasis on craftsmanship.
-- Internet Architecture and Big Tech: Pay attention to the discussion on internet requests and how Bitcoin/Lightning propose to alter this dynamic.
-- Bitcoin and Energy Incentives: Focus on how Bitcoin mining could drive the evolution of energy sources and infrastructure.
-- Civilization Structure: Consider the implications of energy development preceding grid infrastructure on societal patterns.
-- Methane Emission Reduction: Understand how Bitcoin mining could be used to address environmental concerns like methane flaring.
-- Soil Depletion and Long-Term Thinking: Reflect on how the long-term perspective inherent in Bitcoin philosophy might benefit environmental issues like soil health.
-
-## Rewritten version
 ### Money as a Common Pool Resource
-In the chapter titled 'A Capital Renaissance,' the authors explore Elinor Ostrom's concept of a 'Common Pool Resource' (CPR). These resources are characterized by their shared nature, where individual exclusion is challenging, but their use leads to depletion. This concept is contrasted with 'public goods,' which are non-excludable and do not deplete through use. For example, a community's fish stock is a CPR — fishing reduces the stock, making it subtractable, whereas air is a public good as it is non-excludable and breathing does not diminish its availability to others.
+The authors begin the chapter by exploring Elinor Ostrom's concept of a 'Common Pool Resource' (CPR). These resources are characterized by their shared nature, where individual exclusion is challenging, but their use leads to depletion. This concept is contrasted with 'public goods,' which are non-excludable and do not deplete through use. For example, a community's fish stock is a CPR — fishing reduces the stock, making it subtractable, whereas air is a public good as it is non-excludable and breathing does not diminish its availability to others.
 
 In this context, money is categorized as a CPR. Its value lies partly in its ability to facilitate capital building and establish trust for trade among strangers, functioning as a form of social capital. However, the misuse of money, such as through excessive printing and debt issuance, leads to the 'strip mining' of capital, as previously discussed. This misuse erodes trust in the monetary institution, thereby devaluing the currency for all who rely on it.
 
