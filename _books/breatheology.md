@@ -14,6 +14,10 @@ long_review: true
 
 (2023/10/22) - My natural breathing rhythm has improved, now steady at 10 breaths every three minutes when relaxed. Additionally, my 'Ujjayi' breathing technique has progressed: a consistent pattern of a 4-second inhale, an 8-second hold, an 8-second exhale, and another 8-second hold. I've also begun integrating 'Mula Bandha' or 'Root Lock' into this routine.
 
+(2024/01/23) - I have realized that at some point I have stopped doing my morning routine. Having felt slightly sad for a short period I have decided to incorporate 'Ujjayi' breathing in my breaks at work, as I am usually alone in the office til around 12, this is quite easy. Starting out again, my technique is significantly worse compared to last.
+
+(2024/01/31) - After one of my friends told me that he had experimented with some of the 'energizing' breathing techniques found in the book I have decided to give it a go as well. The past two days I have been doing the exercise 'Kapalabhati' when I start to lose concentration at work. It is interesting and it seems that I clear my head and gain the ability to focus for a while longer without spending much time doing this. It will be interesting to see how it works out in the long run.  
+
 ## Chapter 1:
 This chapter tackles stress management in daily life, distinguishing between short-term 'good stress' induced by activities like exercise and long-term 'bad stress' from persistent high alert states. It proposes breathwork as an effective tool for mitigating stress, emphasizing that controlling one's breath can provide positive feedback, similar to how poor stress management negatively affects well-being. The chapter concludes with helpful dietary suggestions and a simple relaxation exercise performed while lying supine.
 
