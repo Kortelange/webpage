@@ -64,7 +64,7 @@ Furthermore, capital accumulation leads to the invention of new technologies. Am
 
 Chapter 7 provides an enlightening description of how technological advancement improves production and expands possibilities. Ammous highlights that the production of the same goods experiences diminishing returns over time. However, new inventions continually remove previous limits and expand possibilities. He argues against the misconception that technology eliminates labor. Instead, for example, inventions like the wheel, boats, cars, and planes have resulted in a larger percentage of people entering the transportation industry.
 
-Ammous introduces an intriguing perspective by suggesting that technology helps eliminate slavery by increasing the value of willful cooperation for capital owners. Employees become more productive, and they manage expensive capital, making cooperation more beneficial.
+Ammous introduces an interesting perspective by suggesting that technology helps eliminate slavery by increasing the value of willful cooperation for capital owners. Employees become more productive, and they manage expensive capital, making cooperation more beneficial.
 
 The chapter also explores how technological growth correlates more strongly with population density than with resource availability. Higher population density allows for labor specialization and better resource extraction, leading to increased technological advancements.
 
