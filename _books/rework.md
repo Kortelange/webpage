@@ -11,7 +11,8 @@ My main takeaway is to keep things simple. Focus on doing less, but doing it bet
 
 There are many other interesting discussions throughout the book, covering topics such as meetings, hiring, working hours, and capitalizing on work that has already been done. Simplicity and trimming away what is unnecessary apply here as well:
 
-Do you really need this meeting, and how many man-hours does it occupy?
-How many people do you really need for the job, and what is the main skill required?
-Can you create a useful product out of something that you have already made? For example, 'Rework' itself was compiled from blog posts.
+- Do you really need this meeting, and how many man-hours does it occupy?
+- How many people do you really need for the job, and what is the main skill required?
+- Can you create a useful product out of something that you have already made? For example, 'Rework' itself was compiled from blog posts.
+
 The book was great, and I might flesh out further ideas on a second read-through, but for now, I will adhere to the style of the book and keep it short.
