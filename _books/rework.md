@@ -11,7 +11,7 @@ There are many other interesting discussions throughout the book, covering topic
 
 Do you really need this meeting, and how many man-hours does it occupy?
 How many people do you really need for the job, and what is the main skill required?
-Can you create a useful product out of something that you have already made? For example, "Rework" itself was compiled from blog posts.
+Can you create a useful product out of something that you have already made? For example, 'Rework' itself was compiled from blog posts.
 The book was great, and I might flesh out further ideas on a second read-through, but for now, I will adhere to the style of the book and keep it short."
 long_review: true
 ---
