@@ -1,0 +1,18 @@
+---
+layout: book
+title: "Handmade"
+author: "Gary Rogovski"
+rating: 3
+short_review: "'Handmade' by Gary Rogovski is a book about the joys and struggles of creating, focusing on the philosophical and practical challenges one encounters along the way. Heavily inspired by Robert Pirsig's masterpiece, 'Zen and the Art of Motorcycle Maintenance,' it explores the concept of quality in a more practical manner and tells Rogovski’s personal journey, 'failing' to become a writer/thinker and changing his career to become a woodworker instead."
+long_review: true
+---
+
+I was very inspired by the first half of the book and felt it was a great companion to [Zen and the Art of Motorcycle Maintenance](./zen_and_motorcycle_maintenance.html), which it heavily references. In this section, Gary shares stories from his early career and youth, where his impatience and lack of focus on quality often led to poor results or trouble. A good example is from when he worked as a car mechanic. Despite having little experience, he managed to hustle his way into the job by reading John Muir's [How to Keep Your Volkswagen Alive](https://www.amazon.com/Keep-Volkswagen-Alive-Step-Step/dp/1566913101). One day, unable to identify what was wrong with a car, Gary hammers away at it without making any progress. Eventually, he asks a colleague for help. The colleague spends a long time just looking around and under the car, almost without touching it. Finally, he discovers the problem, focuses on that single area, and fixes the car in a few minutes.
+
+My favorite discussion in the book was about the 'beginner's mind.' This state is often celebrated as one of boundless opportunity and inspiration, but as Rogovski neatly points out, a beginner lacks the skill to truly see these opportunities. He also argues that people often consider themselves experts after just a couple of years of practice when, in reality, they are still beginners. This false perception of expertise after only a short time in practice is what he calls the 'beginner's mind' and is something to be wary of. On the other hand, one could seek to embody the mind of a craftsman, understanding that the more experience you gain, the more opportunities and details you will be able to discover and appreciate. You are never truly done.
+
+In the second half of the book, Rogovski connects the threads from the first part, reflecting on how he tackled problems later in life with more experience. He discusses the trade-offs between the life of a craftsman/artist and a more commercial path. The life of an artist comes with significant economic costs, uncertainty, and a perpetual struggle of feeling that one's creations are not good enough. While the first section is quite neutral in its discussions and observations, I found this part to be much more opinionated, which I wasn't a big fan of.
+
+Despite this, the section still contains valuable insights. Rogovski emphasizes that minor details in one's work, though often unnoticed by others, are crucial for personal satisfaction and mastery of the craft. For example, he developed a new gluing technique from fixing a small split in one of his pieces, which later proved useful in many of his works. He also humorously comments on how people tend to develop different methods for the same tasks and often regard others' approaches as foolish.
+
+I really liked many of the ideas in the book, particularly the emphasis on patience and quality. These principles resonate with the themes of simplicity and excellence presented in "Rework." "Handmade" is a book I will return to, and on my next read, I may find more appreciation for the insights in the second half. It’s also well-suited for audio.
