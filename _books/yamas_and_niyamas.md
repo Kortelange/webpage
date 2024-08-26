@@ -3,11 +3,11 @@ layout: book
 title: "The Yamas and Niyamas"
 author: "Deborah Adele"
 rating: 3
-short_review: ""
+short_review: "'The Yamas and Niyamas' is a book exploring the ethical practice of yoga, providing guidelines for living. While it contains many good ideas, I find them fairly standard for self-help books. It’s a short book, which is nice, but it could be even shorter as the stories aren’t very deep and the language is somewhat fluffy."
 long_review: true
 ---
 
-'The Yamas and Niyamas' is a book exploring the ethical practice of yoga, providing guidelines for living. While it contains many good ideas, I find them fairly standard for self-help books. It’s a short book, which is nice, but it could be even shorter as the stories aren’t very deep and the language is somewhat fluffy. One thing I liked about the book is the weekly questions for reflection. Each Yama and Niyama has four exercises, each requiring a week of attention, totaling 40 weeks of reflection. This acknowledges that personal change takes time and is not a [weekend retreat](https://www.youtube.com/watch?v=J56hIpUJ3BM). I plan to try them and journal my thoughts along the way.
+ One thing I liked about the book is the weekly questions for reflection. Each Yama and Niyama has four exercises, each requiring a week of attention, totaling 40 weeks of reflection. This acknowledges that personal change takes time and is not a [weekend retreat](https://www.youtube.com/watch?v=J56hIpUJ3BM). I plan to try them and journal my thoughts along the way.
 
 So far, I am six weeks into the exercises, with a few of them providing positive surprises. I will add these experiences later on.
 
