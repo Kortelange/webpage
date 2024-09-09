@@ -37,7 +37,7 @@ Another compelling point is about avoiding stealing from the future. This involv
 ### Brahmacharya - Nonexcess
 Nonexcess is about realizing your addictions. In this context, addictions are what you do in excess (for whatever reason, including enjoyment). The key point is that your addictions are controlling you rather than the other way around.
 
-In today's world, a common addiction many people struggle with is to media and screens. For those interested in tackling this specific issue, Cal Newport's [Digital Minimalism](https://www.amazon.com/Digital-Minimalism-Choosing-Focused-Noisy/dp/0525536515) is a great resource. (#TODO add own notes for this book).
+In today's world, a common addiction many people struggle with is to media and screens. For those interested in tackling this specific issue, Cal Newport's [Digital Minimalism](./digital_minimalism.html) is a great resource.
 
 
 ### Aparigraha - Nonpossessiveness
@@ -77,8 +77,8 @@ Surrendering is about flowing with life instead of fighting against it. It means
 - Week 4: Pretend you are complete with nothing to change about yourself and that you do not have to compete with or impress anyone. Note the experience and see how much kindness and patience you can have towards yourself.
 
 ### Satya
-- Week 1: Observe the difference between being «nice» and being «real».
-- Week 2: Spend the week in «self expression». Act on opportunities making you feel alive, despite their consequences (with a degree of sanity of course!). If you over indulge in something, ask yourself if there is something you are not expressing.
+- Week 1: Observe the difference between being 'nice' and being 'real'.
+- Week 2: Spend the week in 'self expression'. Act on opportunities making you feel alive, despite their consequences (with a degree of sanity of course!). If you over indulge in something, ask yourself if there is something you are not expressing.
 - Week 3: Do it right the first time. When you make plans, make you they are in a way so that you do not have to backtrack or reschedule. When you communicate, make sure you do it in a way so you do not have to apologize or correct mistakes.
 - Week 4: Notice ideas and beliefs that once served you but no longer do so. Honor them for how they served you and try to let go, noticing where you encounter resistance and denial.
 
@@ -107,13 +107,13 @@ Surrendering is about flowing with life instead of fighting against it. It means
 - Week 4: Set aside one hour to eat an orange and give it your full attention. Describe the experience and for the rest of the week slow down and immerse yourself in everything that you do. Journal the experience.
 
 ### Santosha
-- Week 1:  Notice when you find yourself getting ready for «the next thing» or when you look for contentment from something outside yourself. Journal your observations.
+- Week 1:  Notice when you find yourself getting ready for 'the next thing' or when you look for contentment from something outside yourself. Journal your observations.
 - Week 2: Notice how much energy you spend moving towards things you enjoy and avoiding what you dislike. Notice any physical gripping sensations in your body. Journal what you notice.
 - Week 3: Take responsibility for all your emotional disturbances. Choose to stay in the disturbance of to be content with the disturbance.
 - Week 4: Practice gratitude and nonsmoking. Be content with each moment as it is.
 
 ### Tapas
-- Week 1: Remember the cathartic times in your life and how they have shaped you. Notice times when you checked out from the pain and others when you stayed with the «blessing».
+- Week 1: Remember the cathartic times in your life and how they have shaped you. Notice times when you checked out from the pain and others when you stayed with the 'blessing'.
 - Week 2: Choose a practice that impacts the quality of your life in a good way, like healthy eating or meditating.
 - Week 3: Practice staying a minute longer in whatever unpleasantness presenting itself to you. Can you let the unpleasantness/heat burn away your judgments, opinions and expectations?
 - Week 4: Pay attention to your daily choices. Are you making choices that are indulgent, or choices that build your strength and character? Try making the choices preparing you for the heat of life.
@@ -126,6 +126,6 @@ Surrendering is about flowing with life instead of fighting against it. It means
 
 ### Ishvara Pranidhana
 - Week 1: Watch your attitude and responses to the moment. Are you fearful, trusting, fighting, judging or annoyed? Notice if there is any pattern to your attitude.
-- Week 2: Notice tension arising in your body when you need the moment to be «your way». Choose to relax and shift your attitude to curiosity. Notice what happens. 
+- Week 2: Notice tension arising in your body when you need the moment to be 'your way'. Choose to relax and shift your attitude to curiosity. Notice what happens. 
 - Week 3: Practice welcoming each moment and see what opportunities it offers and asks of you.
 - Week 4: Wake up every morning, believe in something greater than yourself, and let your mind, heart and actions line up with that greatness.
