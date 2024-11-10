@@ -3,9 +3,9 @@ layout: book
 title: "Fortune's formula"
 author: "William Poundstone"
 rating: 4
-short_review: "'Fortune’s Formula' tells the story of how information theorists tackled the challenge of beating the casino and stock markets. The book starts with a brief biography of Claude Shannon and his development of information theory. It then introduces other key figures, Edward Thorpe and John Kelly.
+short_review: "\"Fortune’s Formula\" tells the story of how information theorists tackled the challenge of beating the casino and stock markets. The book starts with a brief biography of <a href=\"./a_mind_at_play.html\">Claude Shannon</a> and his development of information theory. It then introduces other key figures, Edward Thorpe and John Kelly.
 
-The core theme is the 'Kelly Criterion', developed by John Kelly, which determines the optimal bet for compound growth. This criterion translates Shannon’s capacity theorems, about the optimal rate of information transmission through a classical information channel, into guidelines for betting."
+The core theme is the \"Kelly Criterion\", developed by John Kelly, which determines the optimal bet for compound growth. This criterion translates Shannon’s capacity theorems, about the optimal rate of information transmission through a classical information channel, into guidelines for betting."
 long_review: true
 ---
 
